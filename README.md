@@ -58,8 +58,8 @@
 - user
   - register: send an email to the user
   - login
-  - change password
-  - forgot password
+ 
+ 
   - update profile
     - profile image
     - addresses
